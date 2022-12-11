@@ -60,8 +60,8 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | :---------------------------: | :----------------------------------------: | :----------------------: |
 |              P1               |       **Part I Foundational Spring**       |                          |
 |  [Ch01](./Ch01.md)（P3, 26）  |        Getting started with Spring         |    :heavy_check_mark:    |
-| [Ch02](./Ch02.md)（P29, 32）  |        Developing web applications         | :hourglass_flowing_sand: |
-| [Ch03](./Ch03.md)（P61, 33）  |             Working with data              |        :no_entry:        |
+| [Ch02](./Ch02.md)（P29, 32）  |        Developing web applications         |    :heavy_check_mark:    |
+| [Ch03](./Ch03.md)（P61, 33）  |             Working with data              | :hourglass_flowing_sand: |
 | [Ch04](./Ch04.md)（P94, 19）  |      Working with nonrelational data       |        :no_entry:        |
 | [Ch05](./Ch05.md)（P113, 27） |              Securing Spring               |        :no_entry:        |
 | [Ch06](./Ch06.md)（P140, 21） |   Working with configuration properties    |        :no_entry:        |
