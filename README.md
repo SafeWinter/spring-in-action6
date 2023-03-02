@@ -56,31 +56,31 @@
 
 Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started) | :orange_book: (Finish reading)
 
-|              No.              |               Chapter Title                |          Status          |
-| :---------------------------: | :----------------------------------------: | :----------------------: |
-|              P1               |       **Part I Foundational Spring**       |                          |
-|  [Ch01](./Ch01.md)（P3, 26）  |        Getting started with Spring         |    :heavy_check_mark:    |
-| [Ch02](./Ch02.md)（P29, 32）  |        Developing web applications         |    :heavy_check_mark:    |
-| [Ch03](./Ch03.md)（P61, 33）  |             Working with data              |    :heavy_check_mark:    |
-| [Ch04](./Ch04.md)（P94, 19）  |      Working with nonrelational data       | :hourglass_flowing_sand: |
-| [Ch05](./Ch05.md)（P113, 27） |              Securing Spring               |        :no_entry:        |
-| [Ch06](./Ch06.md)（P140, 21） |   Working with configuration properties    |        :no_entry:        |
-|             P161              |       **Part II Integrated Spring**        |                          |
-| [Ch07](./Ch07.md)（P163, 23） |           Creating REST services           |        :no_entry:        |
-| [Ch08](./Ch08.md)（P186, 24） |               Securing REST                |        :no_entry:        |
-| [Ch09](./Ch09.md)（P210, 33） |      Sending messages asynchronously       |        :no_entry:        |
-| [Ch10](./Ch10.md)（P243, 36） |             Integrating Spring             |        :no_entry:        |
-|             P277              |        **Part III Reactive Spring**        |                          |
-| [Ch11](./Ch11.md)（P279, 29） |            Introducing Reactor             |        :no_entry:        |
-| [Ch12](./Ch12.md)（P308, 29） |          Developing reactive APIs          |        :no_entry:        |
-| [Ch13](./Ch13.md)（P337, 32） |         Persisting data reactively         |        :no_entry:        |
-| [Ch14](./Ch14.md)（P369, 18） |            Working with RSocket            |        :no_entry:        |
-|             P285              |        **Part IV Deployed Spring**         |                          |
-| [Ch15](./Ch15.md)（P387, 36） |     Working with Spring Boot Actuator      |        :no_entry:        |
-| [Ch16](./Ch16.md)（P423, 12） |            Administering Spring            |        :no_entry:        |
-| [Ch17](./Ch17.md)（P435, 08） |         Monitoring Spring with JMX         |        :no_entry:        |
-| [Ch18](./Ch18.md)（P443, 16） |              Deploying Spring              |        :no_entry:        |
-|             P459              | Appendix—Bootstrapping Spring applications |                          |
+|              No.              |               Chapter Title                |       Status       |
+| :---------------------------: | :----------------------------------------: | :----------------: |
+|              P1               |       **Part I Foundational Spring**       |                    |
+|  [Ch01](./Ch01.md)（P3, 26）  |        Getting started with Spring         | :heavy_check_mark: |
+| [Ch02](./Ch02.md)（P29, 32）  |        Developing web applications         | :heavy_check_mark: |
+| [Ch03](./Ch03.md)（P61, 33）  |             Working with data              | :heavy_check_mark: |
+| [Ch04](./Ch04.md)（P94, 19）  |      Working with nonrelational data       |   :orange_book:    |
+| [Ch05](./Ch05.md)（P113, 27） |              Securing Spring               |   :orange_book:    |
+| [Ch06](./Ch06.md)（P140, 21） |   Working with configuration properties    |   :orange_book:    |
+|             P161              |       **Part II Integrated Spring**        |                    |
+| [Ch07](./Ch07.md)（P163, 23） |           Creating REST services           |   :orange_book:    |
+| [Ch08](./Ch08.md)（P186, 24） |               Securing REST                |   :orange_book:    |
+| [Ch09](./Ch09.md)（P210, 33） |      Sending messages asynchronously       |   :orange_book:    |
+| [Ch10](./Ch10.md)（P243, 36） |             Integrating Spring             |   :orange_book:    |
+|             P277              |        **Part III Reactive Spring**        |                    |
+| [Ch11](./Ch11.md)（P279, 29） |            Introducing Reactor             |   :orange_book:    |
+| [Ch12](./Ch12.md)（P308, 29） |          Developing reactive APIs          |   :orange_book:    |
+| [Ch13](./Ch13.md)（P337, 32） |         Persisting data reactively         |   :orange_book:    |
+| [Ch14](./Ch14.md)（P369, 18） |            Working with RSocket            |   :orange_book:    |
+|             P285              |        **Part IV Deployed Spring**         |                    |
+| [Ch15](./Ch15.md)（P387, 36） |     Working with Spring Boot Actuator      |   :orange_book:    |
+| [Ch16](./Ch16.md)（P423, 12） |            Administering Spring            |   :orange_book:    |
+| [Ch17](./Ch17.md)（P435, 08） |         Monitoring Spring with JMX         |   :orange_book:    |
+| [Ch18](./Ch18.md)（P443, 16） |              Deploying Spring              |   :orange_book:    |
+|             P459              | Appendix—Bootstrapping Spring applications |                    |
 
 
 
